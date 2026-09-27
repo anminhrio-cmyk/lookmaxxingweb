@@ -1,8 +1,1 @@
 # lookmaxxingweb
-<title>Lookmaxxing - AI Chấm Điểm Khuôn Mặt Chuẩn VN Appeal Scale</title>
-<meta name="description" content="Ứng dụng AI phân tích và chấm điểm khuôn mặt chuẩn LTN, MTN, HTN, Chad. Trải nghiệm ngay để biết bạn đạt bao nhiêu điểm trên thang Lookmaxxing.">
-<meta name="keywords" content="chấm điểm khuôn mặt, lookmaxxing, ai chấm mặt, vn appeal scale, đánh giá nhan sắc, true adam">
-<meta property="og:title" content="Lookmaxxing - Chấm Điểm Khuôn Mặt AI">
-<meta property="og:description" content="Bạn thuộc cấp độ nào: MTN, HTN hay Chad? Tải ảnh lên để AI phân tích ngay.">
-<!-- Thay link ảnh demo của bạn vào content bên dưới để khi share lên Facebook/Zalo có hình thu nhỏ đẹp -->
-<meta property="og:image" content="link_anh_thumbnail_cua_ban.jpg">
